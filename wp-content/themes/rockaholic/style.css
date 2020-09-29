@@ -1,0 +1,153 @@
+/**
+Theme Name: Rockaholic
+Author: Shark Themes
+Author URI: http://sharkthemes.com/
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 5.4.2
+Template: musicaholic
+Text Domain: rockaholic
+Description: Rockaholic is a extremely flexible and suitable for musicians, artists, music bands and anyone associated with music. Rockoholic is mainly suitable for rock genre. It is a child theme of Musicaholic. Theme Demo: http://demo.sharkthemes.com/rockaholic/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-header, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, right-sidebar, full-width-template, two-columns, three-columns, grid-layout, custom-logo, blog, portfolio, entertainment
+
+Rockaholic WordPress Theme, Copyright 2020 Shark Themes
+Rockaholic is distributed under the terms of the GNU GPL
+
+Rockaholic WordPress Theme is child theme of Musicaholic WordPress Theme, Copyright 2020 Shark Themes
+Musicaholic WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+.custom-header-content {
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%,-45%);
+    text-align: center;
+}
+#custom-header .custom-header-content .separator {
+    margin: 30px auto;
+}
+
+a:hover, a:focus, a:active,
+.main-navigation a:hover, 
+.main-navigation a:focus,
+span.posted-on a:hover, 
+span.byline .author a:hover,
+.cat-links a:hover,
+#reply-title, 
+.comments-title,
+article .entry-title a:hover, 
+article .entry-title a:focus,
+#secondary .widget ul li, 
+#secondary .widget ul li a:hover,
+.post-navigation a:hover, 
+.post-navigation a:focus, 
+.posts-navigation a:hover,
+.posts-navigation a:focus,
+.cta-section .section-header a:hover,
+.introduction-section article .entry-title a:hover,
+#featured-posts .entry-title a:hover,
+.blog-posts-wrapper article span.posted-on a:hover time, 
+.blog-posts-wrapper article .author a:hover, 
+.blog-posts-wrapper article .cat-links a:hover, 
+.blog-posts-wrapper article .entry-title a:hover,
+#second-introduction .entry-container .entry-title a:hover,
+#event .content-wrapper .entry-title a:hover, 
+#event .content-wrapper .entry-title a:focus,
+#team .entry-title a:hover,
+#product article .entry-title a:hover,
+.pagination a.page-numbers:hover, 
+.pagination a.page-numbers:focus, 
+.pagination a.page-numbers:hover svg, 
+.pagination a.page-numbers:focus svg,
+.main-navigation ul.menu li.current-menu-item > a,
+.single-post .cat-links a:hover,
+.main-navigation .current_page_item > a, 
+.main-navigation .current-menu-item > a, 
+.main-navigation .current_page_ancestor > a, 
+.main-navigation .current-menu-ancestor > a,
+.single-post .entry-meta span a:hover,
+.single-post span.byline .author a:hover {
+    color: #c4b68f;
+}
+
+.pagination a.page-numbers:hover, 
+.pagination a.page-numbers:focus, 
+.pagination a.page-numbers:hover svg, 
+.pagination a.page-numbers:focus svg {
+    fill: #c4b68f;
+}
+
+.backtotop:hover,
+.reply a,
+.slick-prev:hover, 
+.slick-next:hover, 
+.slick-prev:focus, 
+.slick-next:focus,
+.separator,
+.added_to_cart,
+.cta-section a.btn:hover,
+#event .content-wrapper a.btn,
+.custom-header-content a.btn:hover,
+.introduction-section article a.btn:hover,
+#second-introduction article a.btn:hover,
+.pagination .page-numbers.current,
+#product span.price ins span,
+#product article a.more-btn:hover, 
+#product article a.more-btn:focus,
+#filter-posts ul li.active a,
+#playlist .wp-playlist-tracks .wp-playlist-item.wp-playlist-playing, 
+#playlist .wp-playlist-tracks .wp-playlist-item:hover,
+#playlist .wp-playlist .mejs-inner .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+#playlist .wp-playlist .mejs-inner .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current:after,
+#playlist .wp-playlist .mejs-inner .mejs-controls .mejs-time-rail .mejs-time-current,
+.widget_search form.search-form button.search-submit,
+#respond input[type="submit"]:hover, 
+#respond input[type="submit"]:focus,
+.blog-loader-btn .read-more a:hover,
+.widget_search form.search-form button.search-submit:hover {
+    background-color: #c4b68f;
+}
+
+.pagination a.page-numbers:hover, 
+.pagination a.page-numbers:focus, 
+.pagination a.page-numbers:hover svg, 
+.pagination a.page-numbers:focus svg,
+.custom-header-content a.btn:hover,
+#respond input[type="submit"]:hover, 
+#respond input[type="submit"]:focus,
+.introduction-section article a.btn:hover,
+#second-introduction article a.btn:hover,
+.blog-loader-btn .read-more a:hover,
+.pagination .page-numbers.current {
+    border-color: #c4b68f;
+}
+
+/* Woocommerce */
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title:hover, 
+.woocommerce ul.products li.product .woocommerce-loop-product__title:hover, 
+.woocommerce ul.products li.product h3:hover {
+    color: #c4b68f;
+}
+.woocommerce #respond input#submit:hover, 
+.woocommerce a.button:hover, 
+.woocommerce button.button:hover, 
+.woocommerce input.button:hover, 
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover, 
+.woocommerce .widget_price_filter .price_slider_amount .button:hover, 
+.woocommerce ul.products li.product .button:hover {
+    background-color: #c4b68f;
+}
+
+@media screen and (max-width: 1023px) {
+    .main-navigation a:hover, 
+    .main-navigation a:focus, 
+    .main-navigation ul.menu li.current-menu-item > a {
+        color: #c4b68f;
+    }
+}

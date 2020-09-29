@@ -1,0 +1,482 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-22 16:05:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-edit-form-advanced.php:505
+msgid "Publish Settings"
+msgstr "发布设置"
+
+#: classic-edit-form-advanced.php:524
+msgid "Page Attributes"
+msgstr "页面属性"
+
+#: classic-editor.php:417
+msgid "Permalink saved"
+msgstr "永久链接已保存"
+
+#: classic-edit-form-advanced.php:294
+msgid "Metadata"
+msgstr "元数据"
+
+#: classic-edit-form-advanced.php:699 classic-edit-form-advanced.php:702
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: classic-edit-form-advanced.php:699 classic-edit-form-advanced.php:702
+msgid "g:i a"
+msgstr "ag:i"
+
+#. translators: 1: month, 2: day, 3: year, 4: hour, 5: minute
+#: classic-editor.php:401
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s"
+msgstr "%3$s-%1$s-%2$s @ %4$s:%5$s"
+
+#: classic-edit-form-advanced.php:301
+msgctxt "post format"
+msgid "Format"
+msgstr "形式"
+
+#: classic-editor.php:415
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "离开这个页面，您所做的更改将丢失。"
+
+#: classic-editor.php:397
+msgid "Publish on:"
+msgstr "发布于："
+
+#: classic-editor.php:398
+msgid "Schedule for:"
+msgstr "定时："
+
+#: classic-editor.php:399
+msgid "Published on:"
+msgstr "发布于："
+
+#: classic-editor.php:402
+msgid "Show more comments"
+msgstr "显示更多评论"
+
+#: classic-editor.php:403
+msgid "No more comments found."
+msgstr "已无更多评论。"
+
+#: classic-editor.php:412
+msgid "Password Protected"
+msgstr "密码保护"
+
+#: classic-editor.php:416
+msgid "Saving Draft&#8230;"
+msgstr "正在保存草稿&#8230;"
+
+#: classic-editor.php:298
+msgid "Settings"
+msgstr "设置"
+
+#: classic-edit-form-advanced.php:369
+msgid "Author"
+msgstr "作者"
+
+#: classic-edit-form-advanced.php:361
+msgid "Comments"
+msgstr "评论"
+
+#: classic-edit-form-advanced.php:297 classic-editor.php:404
+msgid "Publish"
+msgstr "发布"
+
+#: classic-edit-form-advanced.php:327
+msgid "Excerpt"
+msgstr "摘要"
+
+#: classic-edit-form-advanced.php:283
+msgid "Revisions"
+msgstr "修订版本"
+
+#: classic-edit-form-advanced.php:290
+msgid "Save"
+msgstr "保存"
+
+#: classic-editor.php:396
+msgid "Cancel"
+msgstr "取消"
+
+#: classic-editor.php:408
+msgid "Save Draft"
+msgstr "保存草稿"
+
+#: classic-editor.php:407
+msgid "Save as Pending"
+msgstr "保存并提请审核"
+
+#: classic-editor.php:413
+msgid "Privately Published"
+msgstr "私密、已发布"
+
+#: classic-editor.php:395
+msgid "OK"
+msgstr "确定"
+
+#: classic-editor.php:409
+msgid "Private"
+msgstr "私密"
+
+#: classic-editor.php:411
+msgid "Public, Sticky"
+msgstr "公开、置顶"
+
+#: classic-editor.php:410
+msgid "Public"
+msgstr "公开"
+
+#: classic-editor.php:406
+msgid "Update"
+msgstr "更新"
+
+#: classic-editor.php:414
+msgid "Published"
+msgstr "已发布"
+
+#: classic-edit-form-advanced.php:439 classic-edit-form-advanced.php:455
+#: classic-edit-form-advanced.php:471
+msgid "<a href=\"https://wordpress.org/support/\">Support Forums</a>"
+msgstr "<a href=\"https://wordpress.org/support/\">支持论坛</a>"
+
+#: classic-edit-form-advanced.php:423
+msgid "Visual mode gives you an editor that is similar to a word processor. Click the Toolbar Toggle button to get a second row of controls."
+msgstr "可视化模式给您类似字处理工具的编辑器。点击最后一个按钮将展开第二行控制按钮。"
+
+#: classic-edit-form-advanced.php:220
+msgid "Media file updated."
+msgstr "媒体文件已更新。"
+
+#: classic-edit-form-advanced.php:217
+msgid "Page scheduled for: %s."
+msgstr "页面已计划至：%s。"
+
+#: classic-edit-form-advanced.php:218
+msgid "Page draft updated."
+msgstr "页面草稿已更新。"
+
+#: classic-edit-form-advanced.php:424
+msgid "The Text mode allows you to enter HTML along with your post text. Note that &lt;p&gt; and &lt;br&gt; tags are converted to line breaks when switching to the Text editor to make it less cluttered. When you type, a single line break can be used instead of typing &lt;br&gt;, and two line breaks instead of paragraph tags. The line breaks are converted back to tags automatically."
+msgstr "文本模式使您可以向您的文章中加入HTML。为了让编辑器更简洁，留意&lt;p&gt;和&lt;br&gt;标签在切换到文本模式时会自动被转换为换行。在您打字时，您可以使用一个换行来代替&lt;br&rt;，及使用两个换行来代替段落标签。这些换行将自动被转换为对应的标签。"
+
+#: classic-edit-form-advanced.php:489
+msgid "<strong>Publish</strong> &mdash; You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). The Password protected option allows you to set an arbitrary password for each post. The Private option hides the post from everyone except editors and administrators. Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
+msgstr "<strong>发布</strong> — 您可以在“发布”区域设置文章的属性。点击“状态”、“可见性”、“发布”右侧的“编辑”按钮，可以调整更多设置。可见性设置包括密码保护和文章置顶；通过设置发布选项，可实现定时发布功能。"
+
+#: classic-edit-form-advanced.php:214
+msgid "Page published."
+msgstr "页面已发布。"
+
+#: classic-edit-form-advanced.php:216
+msgid "Page submitted."
+msgstr "页面已提交。"
+
+#: classic-edit-form-advanced.php:202
+msgid "Post submitted."
+msgstr "文章已提交。"
+
+#: classic-edit-form-advanced.php:203
+msgid "Post scheduled for: %s."
+msgstr "文章已计划至：%s。"
+
+#: classic-edit-form-advanced.php:204
+msgid "Post draft updated."
+msgstr "文章草稿已更新。"
+
+#: classic-edit-form-advanced.php:200
+msgid "Post published."
+msgstr "文章已发布。"
+
+#: classic-edit-form-advanced.php:184
+msgid "View page"
+msgstr "查看页面"
+
+#: classic-edit-form-advanced.php:154 classic-edit-form-advanced.php:160
+msgid "Preview post"
+msgstr "预览文章"
+
+#: classic-edit-form-advanced.php:172 classic-edit-form-advanced.php:178
+msgid "Preview page"
+msgstr "预览页面"
+
+#: classic-edit-form-advanced.php:477
+msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. Please refer to the Codex to <a href=\"https://codex.wordpress.org/Embeds\">learn more about embeds</a>."
+msgstr "您也可以从许多知名网站，如Twitter、YouTube、Flickr等嵌入媒体内容，只需将媒体URL粘贴入您文章/页面中的单独一行即可。您可于Codex上<a href=\"https://codex.wordpress.org/Embeds\">了解更多关于嵌入的信息</a>。"
+
+#: classic-edit-form-advanced.php:453
+msgid "<a href=\"https://codex.wordpress.org/Pages_Add_New_Screen\">Documentation on Adding New Pages</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Pages_Add_New_Screen\">添加新文章文档</a>"
+
+#: classic-edit-form-advanced.php:438
+msgid "<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\">Documentation on Writing and Editing Posts</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\">撰写和编辑文章文档</a>"
+
+#: classic-edit-form-advanced.php:454
+msgid "<a href=\"https://codex.wordpress.org/Pages_Screen#Editing_Individual_Pages\">Documentation on Editing Pages</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Pages_Screen#Editing_Individual_Pages\">编辑页面文档</a>"
+
+#: classic-edit-form-advanced.php:470
+msgid "<a href=\"https://codex.wordpress.org/Media_Add_New_Screen#Edit_Media\">Documentation on Edit Media</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Media_Add_New_Screen#Edit_Media\">编辑媒体文档</a>"
+
+#. translators: Publish box date format, see https://secure.php.net/date
+#: classic-edit-form-advanced.php:190
+msgid "M j, Y @ H:i"
+msgstr "Y年n月j日 @ H:i"
+
+#: classic-edit-form-advanced.php:426
+msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
+msgstr "您可以通过右侧的图标启用免打扰写作模式。此功能在较旧的浏览器或小屏幕设备上不可用，并且需要您在屏幕选项中启用了全高度编辑器。"
+
+#: classic-edit-form-advanced.php:425
+msgid "You can insert media files by clicking the icons above the post editor and following the directions. You can align or edit images using the inline formatting toolbar available in Visual mode."
+msgstr "您可通过点击编辑器之上的图标并遵循指引来插入媒体文件，您可以使用可视化模式中的格式化工具栏来对齐或编辑您的图像。"
+
+#: classic-edit-form-advanced.php:422
+msgid "<strong>Post editor</strong> &mdash; Enter the text for your post. There are two modes of editing: Visual and Text. Choose the mode by clicking on the appropriate tab."
+msgstr "<strong>文章编辑器</strong> — 输入您文章的内容。有两种编辑模式：可视化和文本。通过点击对应的标签来切换模式。"
+
+#: classic-edit-form-advanced.php:427
+msgid "Keyboard users: When you&#8217;re working in the visual editor, you can use <kbd>Alt + F10</kbd> to access the toolbar."
+msgstr "键盘用户：当您在可视化编辑器中时，您可以使用<kbd>Alt + F10</kbd>来访问工具栏。"
+
+#: classic-edit-form-advanced.php:552
+msgid "<strong>Connection lost.</strong> Saving has been disabled until you&#8217;re reconnected."
+msgstr "<strong>连接丢失。</strong>保存已被禁用，直到您重新连接。"
+
+#: classic-edit-form-advanced.php:553
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr "我们正在您的浏览器中备份此文章，以防不测。"
+
+#: classic-edit-form-advanced.php:476
+msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
+msgstr "您可以通过点击“添加媒体”按钮上传或插入多媒体文件（图像、音频、文档等）。您可以从已经上传到媒体库的文件中选择，并直接插入文章，或者上传新的文件，然后再插入。要创建相册，选择要添加的图像，并点击“创建新相册”按钮。"
+
+#: classic-edit-form-advanced.php:413
+msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "标题区域和文章编辑区域的位置是固定的，但您可以通过拖拽来重新排列其它模块。点击模块标题可以最小化或展开模块。一些模块是默认隐藏的，您也可以使用“显示选项”在页面中取消隐藏这些模块（摘要、发送Trackback、自定义栏目、讨论、别名，和作者）。您还可以切换一栏/两栏布局。"
+
+#: classic-edit-form-advanced.php:481
+msgid "Inserting Media"
+msgstr "插入多媒体"
+
+#: classic-edit-form-advanced.php:487
+msgid "Several boxes on this screen contain settings for how your content will be published, including:"
+msgstr "本页几个模块控制内容发布方式："
+
+#: classic-edit-form-advanced.php:462
+msgid "This screen allows you to edit four fields for metadata in a file within the media library."
+msgstr "在此页面，您可编辑媒体库中文件的四项属性。"
+
+#: classic-edit-form-advanced.php:443
+msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
+msgstr "创建一个页面与创建一篇文章非常类似，画面亦可使用相同的方式来自定义，包括拖曳、显示选项页以及展开/折叠区块。这个画面也有免打扰写作模式，于可视化及文本方式均可通过全屏按钮调出。页面编辑器与文章编辑器大同小异，差别在于页面有它自己的属性区块。"
+
+#: classic-edit-form-advanced.php:617
+msgid "Enter title here"
+msgstr "在此输入标题"
+
+#: classic-edit-form-advanced.php:691
+msgid "Word count: %s"
+msgstr "字数统计：%s"
+
+#: classic-edit-form-advanced.php:259
+msgid "There is an autosave of this post that is more recent than the version below. <a href=\"%s\">View the autosave</a>"
+msgstr "有一个自动保存的版本比如下显示的版本还要新。<a href=\"%s\">查看自动保存的版本</a>"
+
+#: classic-edit-form-advanced.php:460
+msgid "Overview"
+msgstr "概述"
+
+#: classic-edit-form-advanced.php:437 classic-edit-form-advanced.php:452
+#: classic-edit-form-advanced.php:469
+msgid "For more information:"
+msgstr "更多信息："
+
+#: classic-edit-form-advanced.php:447
+msgid "About Pages"
+msgstr "关于页面"
+
+#: classic-edit-form-advanced.php:417
+msgid "Customizing This Display"
+msgstr "自定义显示方式"
+
+#: classic-edit-form-advanced.php:431
+msgid "Title and Post Editor"
+msgstr "标题和文章编辑器"
+
+#: classic-edit-form-advanced.php:465
+msgid "Remember to click Update Media to save metadata entered or changed."
+msgstr "在完成后请不要忘记点击“更新媒体”。"
+
+#: classic-edit-form-advanced.php:464
+msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
+msgstr "裁切图片：请点击图片，并将裁切选区调整至您希望裁下的区域。然后点击“保存”以保存图片。"
+
+#: classic-edit-form-advanced.php:520
+msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
+msgstr "<strong>排序</strong> — 页面默认按照字母表顺序进行排序。您也可以通过>为页面指定数字（1代表在最前，2代表其次……）来自定义页面的顺序。"
+
+#: classic-edit-form-advanced.php:442
+msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
+msgstr "页面和文章类似——它们都有标题、正文，以及附属的相关信息。但是它们类似永久的文章，往往并不按照一般博客文章那样，随着时间的流逝逐渐淡出人们的视线。页面并不能被分类、亦不能拥有标签，但是它们可以有层级关系。您可将页面附属在另一个“父级页面”之下。"
+
+#: classic-edit-form-advanced.php:463
+msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
+msgstr "对于图片，您可点击缩略图下方的“编辑图像”，之后就会弹出一个快捷图片编辑器——您可以裁切、旋转、翻转图片。您还可以撤销或重做操作。在编辑器的右侧，您可以对图片剪裁等进行更详尽的设置。您可以点击“帮助”以了解更多。"
+
+#: classic-edit-form-advanced.php:509
+msgid "<strong>Send Trackbacks</strong> &mdash; Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
+msgstr "<strong>发送Trackback</strong> — Trackback是通知旧博客系统您已链接至它们的一种方式。请输入希望发送trackback至哪个（哪些）URL。如果您链接到的是其他WordPress站点，则无须填写此栏，这些站点将自动通过pingback方式通知。"
+
+#: classic-edit-form-advanced.php:436
+msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
+msgstr "您亦可通过<a href=\"%s\">快速发布书签</a>来创建文章。"
+
+#: classic-edit-form-advanced.php:519
+msgid "<strong>Template</strong> &mdash; Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
+msgstr "<strong>模板</strong> — 某些主题有定制的模板，您可以用在一些您想添加>新功能或者自定义布局的页面上。如果这样，您可以在下拉菜单中看到。"
+
+#: classic-edit-form-advanced.php:518
+msgid "<strong>Parent</strong> &mdash; You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
+msgstr "<strong>父级</strong> — 您可以以层级的方式组织您的页面。例如，您可以>创建一个“关于”页面，它的下级有“人生”和“我的宠物”。层级深度不限。"
+
+#. translators: %s: Featured Image
+#: classic-edit-form-advanced.php:498
+msgid "<strong>%s</strong> &mdash; This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the image as a post thumbnail on the home page, a custom header, etc."
+msgstr "<strong>%s</strong> — 这让您可以使用文章里的图片而不用重新插入它。通常您的主题在首页或自定义页首时使用特色图片功能作为缩图时才用得到。"
+
+#: classic-edit-form-advanced.php:421
+msgid "<strong>Title</strong> &mdash; Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>标题</strong> — 为您的文章选择标题。在输入完标题后，您可以在下方看到永久链接，您也可以编辑它。"
+
+#: classic-edit-form-advanced.php:510
+msgid "<strong>Discussion</strong> &mdash; You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
+msgstr "<strong>讨论</strong> — 您可以设置评论和引用通告的开关。若该篇文章有评论，您可以在这里浏览、审核评论。"
+
+#: classic-edit-form-advanced.php:215
+msgid "Page saved."
+msgstr "页面已保存。"
+
+#: classic-edit-form-advanced.php:642
+msgid "Get Shortlink"
+msgstr "获取短链接地址"
+
+#: classic-edit-form-advanced.php:514
+msgid "Discussion Settings"
+msgstr "讨论设置"
+
+#: classic-edit-form-advanced.php:166
+msgid "View post"
+msgstr "查看文章"
+
+#: classic-edit-form-advanced.php:195 classic-edit-form-advanced.php:209
+msgid "Custom field updated."
+msgstr "已更新自定义栏目。"
+
+#: classic-edit-form-advanced.php:196 classic-edit-form-advanced.php:210
+msgid "Custom field deleted."
+msgstr "已删除自定义栏目。"
+
+#: classic-edit-form-advanced.php:194 classic-edit-form-advanced.php:197
+msgid "Post updated."
+msgstr "文章已更新。"
+
+#. translators: %s: date and time of the revision
+#: classic-edit-form-advanced.php:199
+msgid "Post restored to revision from %s."
+msgstr "文章已还原到在%s的版本。"
+
+#: classic-edit-form-advanced.php:201
+msgid "Post saved."
+msgstr "文章已保存。"
+
+#: classic-edit-form-advanced.php:208 classic-edit-form-advanced.php:211
+msgid "Page updated."
+msgstr "页面已更新。"
+
+#. translators: %s: date and time of the revision
+#: classic-edit-form-advanced.php:213
+msgid "Page restored to revision from %s."
+msgstr "页面已还原到在%s的版本。"
+
+#: classic-edit-form-advanced.php:330
+msgid "Send Trackbacks"
+msgstr "发送Trackback"
+
+#: classic-edit-form-advanced.php:333
+msgid "Custom Fields"
+msgstr "自定义栏目"
+
+#: classic-edit-form-advanced.php:348
+msgid "Discussion"
+msgstr "讨论"
+
+#: classic-edit-form-advanced.php:366
+msgid "Slug"
+msgstr "别名"
+
+#. translators: 1: Name of most recent post author, 2: Post edited date, 3:
+#. Post edited time
+#: classic-edit-form-advanced.php:699
+msgid "Last edited by %1$s on %2$s at %3$s"
+msgstr "最后由%1$s编辑于%2$s%3$s"
+
+#. translators: 1: Post edited date, 2: Post edited time
+#: classic-edit-form-advanced.php:702
+msgid "Last edited on %1$s at %2$s"
+msgstr "最后编辑于%1$s %2$s"
+
+#. Plugin Name of the plugin/theme
+msgid "Classic Editor"
+msgstr "Classic Editor"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org"
+msgstr "https://cn.wordpress.org"
+
+#: classic-edit-form-advanced.php:493
+msgid "<strong>Format</strong> &mdash; Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Please refer to the Codex for <a href=\"https://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions of each post format</a>. Your theme could enable all or some of 10 possible formats."
+msgstr ""
+"<strong>格式</strong> — 文章格式指定了您的主题将如何显示一篇文章。比如，您\"\n"
+"可以有一篇“标准”的文章，包括标题和几个段落；或一篇短小的“旁白”，略去标题而只有短短一段文字。请参见Codex上<a href=\"https://codex.wordpress.org/Post_Formats#Supported_Formats\">对各种文章格式的描述</a>。您的主题可以启用所有或10种可能格式的一部分。"
+
+#: classic-editor.php:405
+msgid "Schedule"
+msgstr "计划"
+
+#. Author of the plugin/theme
+msgid "WordPress Contributors"
+msgstr "WordPress 贡献者"
+
+#: classic-editor.php:165
+msgid "Classic editor settings"
+msgstr "经典编辑器设置"
+
+#: classic-editor.php:243
+msgid "(Classic)"
+msgstr "（经典）"
+
+#: classic-editor.php:280
+msgid "Edit (Gutenberg)"
+msgstr "编辑（Gutenberg）"
+
+#: classic-editor.php:286 classic-editor.php:338
+msgid "Edit (Classic)"
+msgstr "编辑（经典）"
+
+#. translators: %s: post title
+#: classic-editor.php:335
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "在经典编辑器里编辑《%s》"
